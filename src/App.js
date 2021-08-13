@@ -18,6 +18,21 @@ function App() {
       id: 3,
       taskName: "Buy Milk",
       isDone: false
+    },
+    {
+      id: 4,
+      taskName: "Eat Food",
+      isDone: false
+    },
+    {
+      id: 5,
+      taskName: "Buy Icecream",
+      isDone: false
+    },
+    {
+      id: 6,
+      taskName: "Goto Home",
+      isDone: false
     }
   ]) 
 
