@@ -21,7 +21,7 @@ function App() {
     }
   ]) 
 
-
+  //change task
   let changeTaskStatus = (id,checkStat) => {
     let taskIndex = task.findIndex((obj)=>obj.id==id);
     checkStat ? task[taskIndex].isDone=true :task[taskIndex].isDone=false;
