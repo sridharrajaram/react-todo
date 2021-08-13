@@ -33,6 +33,11 @@ function App() {
       id: 6,
       taskName: "Goto Home",
       isDone: false
+    },
+    {
+      id: 7,
+      taskName: "Purchase Curd",
+      isDone: false
     }
   ]) 
 
